@@ -1,0 +1,13 @@
+﻿  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  LoadCL.cpp
+  Raytrace.cpp
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage2\Raytrace.cpp(385,25): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage2\Raytrace.cpp(385,32): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage2\Raytrace.cpp(456,30): warning C4838: conversion from 'int' to 'cl_uint' requires a narrowing conversion
+  Scene.cpp
+  Texturing.cpp
+  Generating Code...
+  Stage2.vcxproj -> C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Debug\Stage2.exe

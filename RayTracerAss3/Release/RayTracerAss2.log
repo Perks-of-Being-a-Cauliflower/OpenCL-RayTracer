@@ -1,0 +1,11 @@
+﻿  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  Raytrace.cpp
+  Scene.cpp
+  Texturing.cpp
+  Generating code
+  All 500 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracerAss2.vcxproj -> C:\Users\ij_lewis\Documents\KIT308-408 Multicore\VS Projects\RayTracer2020\RayTracerAss2\Release\RayTracerAss2.exe

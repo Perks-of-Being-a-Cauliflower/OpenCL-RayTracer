@@ -1,0 +1,17 @@
+﻿  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  LoadCL.cpp
+  Raytrace.cpp
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(418,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(495,31): warning C4838: conversion from 'int' to 'cl_uint' requires a narrowing conversion
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(497,5): warning C4838: conversion from 'unsigned int' to 'cl_int' requires a narrowing conversion
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(500,5): warning C4838: conversion from 'int' to 'cl_uint' requires a narrowing conversion
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(304,15): warning C4101: 'numBW': unreferenced local variable
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(305,15): warning C4101: 'numBH': unreferenced local variable
+C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Stage5\Raytrace.cpp(397,10): warning C4101: 'clbufferInOut': unreferenced local variable
+  Scene.cpp
+  Texturing.cpp
+  Generating Code...
+  Stage5.vcxproj -> C:\Users\wdcta\OneDrive\Desktop\KIT308\Assignment 3\KIT308_Assignment3\RayTracerAss3\Debug\Stage5.exe

@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (RayTracerAss2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  LoadCL.cpp
+  Raytrace.cpp
+  Scene.cpp
+  Texturing.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 471 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracerAss3.vcxproj -> C:\Users\wdcta\OneDrive\Desktop\Folders\KIT308\Assignment 3\KIT308_Assignment3\Ray Tracer OpenCL\Release\RayTracerAss3.exe
